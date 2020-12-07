@@ -1,9 +1,12 @@
 readme.txt
 
+IMPORTANT: 
+This project is public on GitHub for myself to use as examples or for potential employeers to see my work. This project is NOT for current students to use as their own work or for them to use any parts of it. Doing so could and would be considered plagerism and is against University rules and can put an individual in bad standing with engineering associations. 
+
 ENSE 352 Whack-a-Mole Project
 
 Author: Evan Geissler
-NSID: 200331033 
+NSID: *********** 
 Date: December 3rd, 2018
 
 1) WHAT THE GAME IS: 
